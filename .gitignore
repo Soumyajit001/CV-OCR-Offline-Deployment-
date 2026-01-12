@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Models (large files)
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.pb
+
+# Datasets (large files)
+datasets/**/*.jpg
+datasets/**/*.png
+datasets/**/*.jpeg
+datasets/**/*.mp4
+datasets/**/*.avi
+
+# Outputs
+outputs/**/*
+!outputs/.gitkeep
+
+# Test videos
+test_videos/**/*
+!test_videos/.gitkeep
+
+# Logs
+*.log
+logs/
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_*.jpg
+temp_*.png
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
