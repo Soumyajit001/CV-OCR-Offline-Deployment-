@@ -1,0 +1,20 @@
+{
+  "image_name": "pexels-anush-gorak-1229356_jpg.rf.1f68f809c159ec17bfb761e9cbc043ad.jpg",
+  "timestamp": "20260112_123351",
+  "total_detections": 1,
+  "detections": [
+    {
+      "class": "human",
+      "confidence": 0.5275454521179199,
+      "bbox": {
+        "x1": 1,
+        "y1": 62,
+        "x2": 175,
+        "y2": 619,
+        "width": 174,
+        "height": 557
+      },
+      "detection_confidence": 0.5275454521179199
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "image_name": "pexels-anush-gorak-1229356_jpg.rf.1f68f809c159ec17bfb761e9cbc043ad.jpg",
+  "timestamp": "20260112_123351",
+  "summary": {
+    "total_detections": 1,
+    "humans": 1,
+    "animals": 0,
+    "confidence_threshold": 0.5
+  },
+  "annotated_image_path": "outputs\\pexels-anush-gorak-1229356_jpg.rf.1f68f809c159ec17bfb761e9cbc043ad_annotated_20260112_123351.jpg",
+  "results_path": "outputs\\pexels-anush-gorak-1229356_jpg.rf.1f68f809c159ec17bfb761e9cbc043ad_detections_20260112_123351.json"
+}

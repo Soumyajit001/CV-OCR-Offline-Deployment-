@@ -1,0 +1,657 @@
+{
+  "image_name": "pexels-future-kiiid-3551498_jpg.rf.c31d12719b1987c5563a35c4d5f02298.jpg",
+  "timestamp": "20260112_123501",
+  "total_detections": 50,
+  "detections": [
+    {
+      "class": "animal",
+      "confidence": 0.5383754372596741,
+      "bbox": {
+        "x1": 134,
+        "y1": 232,
+        "x2": 321,
+        "y2": 428,
+        "width": 187,
+        "height": 196
+      },
+      "detection_confidence": 0.5383754372596741
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5382534861564636,
+      "bbox": {
+        "x1": 418,
+        "y1": 206,
+        "x2": 621,
+        "y2": 584,
+        "width": 203,
+        "height": 378
+      },
+      "detection_confidence": 0.5382534861564636
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5386875867843628,
+      "bbox": {
+        "x1": 357,
+        "y1": 259,
+        "x2": 640,
+        "y2": 397,
+        "width": 283,
+        "height": 138
+      },
+      "detection_confidence": 0.5386875867843628
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5382618308067322,
+      "bbox": {
+        "x1": 347,
+        "y1": 238,
+        "x2": 585,
+        "y2": 522,
+        "width": 238,
+        "height": 284
+      },
+      "detection_confidence": 0.5382618308067322
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5383514165878296,
+      "bbox": {
+        "x1": 112,
+        "y1": 267,
+        "x2": 326,
+        "y2": 361,
+        "width": 214,
+        "height": 94
+      },
+      "detection_confidence": 0.5383514165878296
+    },
+    {
+      "class": "animal",
+      "confidence": 0.53767991065979,
+      "bbox": {
+        "x1": 102,
+        "y1": 185,
+        "x2": 318,
+        "y2": 534,
+        "width": 216,
+        "height": 349
+      },
+      "detection_confidence": 0.53767991065979
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5384570360183716,
+      "bbox": {
+        "x1": 194,
+        "y1": 251,
+        "x2": 578,
+        "y2": 390,
+        "width": 384,
+        "height": 139
+      },
+      "detection_confidence": 0.5384570360183716
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5384104251861572,
+      "bbox": {
+        "x1": 87,
+        "y1": 256,
+        "x2": 229,
+        "y2": 392,
+        "width": 142,
+        "height": 136
+      },
+      "detection_confidence": 0.5384104251861572
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5391380190849304,
+      "bbox": {
+        "x1": 376,
+        "y1": 341,
+        "x2": 640,
+        "y2": 523,
+        "width": 264,
+        "height": 182
+      },
+      "detection_confidence": 0.5391380190849304
+    },
+    {
+      "class": "animal",
+      "confidence": 0.538053035736084,
+      "bbox": {
+        "x1": 227,
+        "y1": 256,
+        "x2": 475,
+        "y2": 450,
+        "width": 248,
+        "height": 194
+      },
+      "detection_confidence": 0.538053035736084
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5386162996292114,
+      "bbox": {
+        "x1": 17,
+        "y1": 230,
+        "x2": 237,
+        "y2": 409,
+        "width": 220,
+        "height": 179
+      },
+      "detection_confidence": 0.5386162996292114
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5396795868873596,
+      "bbox": {
+        "x1": 311,
+        "y1": 317,
+        "x2": 577,
+        "y2": 390,
+        "width": 266,
+        "height": 73
+      },
+      "detection_confidence": 0.5396795868873596
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5368913412094116,
+      "bbox": {
+        "x1": 111,
+        "y1": 243,
+        "x2": 311,
+        "y2": 313,
+        "width": 200,
+        "height": 70
+      },
+      "detection_confidence": 0.5368913412094116
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5382665395736694,
+      "bbox": {
+        "x1": 36,
+        "y1": 183,
+        "x2": 243,
+        "y2": 536,
+        "width": 207,
+        "height": 353
+      },
+      "detection_confidence": 0.5382665395736694
+    },
+    {
+      "class": "animal",
+      "confidence": 0.537600576877594,
+      "bbox": {
+        "x1": 102,
+        "y1": 233,
+        "x2": 240,
+        "y2": 345,
+        "width": 138,
+        "height": 112
+      },
+      "detection_confidence": 0.537600576877594
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5370272397994995,
+      "bbox": {
+        "x1": 333,
+        "y1": 274,
+        "x2": 590,
+        "y2": 354,
+        "width": 257,
+        "height": 80
+      },
+      "detection_confidence": 0.5370272397994995
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5374850034713745,
+      "bbox": {
+        "x1": 344,
+        "y1": 378,
+        "x2": 589,
+        "y2": 583,
+        "width": 245,
+        "height": 205
+      },
+      "detection_confidence": 0.5374850034713745
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5388989448547363,
+      "bbox": {
+        "x1": 281,
+        "y1": 265,
+        "x2": 433,
+        "y2": 389,
+        "width": 152,
+        "height": 124
+      },
+      "detection_confidence": 0.5388989448547363
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5392795205116272,
+      "bbox": {
+        "x1": 160,
+        "y1": 262,
+        "x2": 231,
+        "y2": 428,
+        "width": 71,
+        "height": 166
+      },
+      "detection_confidence": 0.5392795205116272
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5381461977958679,
+      "bbox": {
+        "x1": 26,
+        "y1": 217,
+        "x2": 356,
+        "y2": 355,
+        "width": 330,
+        "height": 138
+      },
+      "detection_confidence": 0.5381461977958679
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5398853421211243,
+      "bbox": {
+        "x1": 391,
+        "y1": 308,
+        "x2": 640,
+        "y2": 435,
+        "width": 249,
+        "height": 127
+      },
+      "detection_confidence": 0.5398853421211243
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5389383435249329,
+      "bbox": {
+        "x1": 203,
+        "y1": 270,
+        "x2": 311,
+        "y2": 368,
+        "width": 108,
+        "height": 98
+      },
+      "detection_confidence": 0.5389383435249329
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5377849340438843,
+      "bbox": {
+        "x1": 211,
+        "y1": 288,
+        "x2": 579,
+        "y2": 487,
+        "width": 368,
+        "height": 199
+      },
+      "detection_confidence": 0.5377849340438843
+    },
+    {
+      "class": "animal",
+      "confidence": 0.538420557975769,
+      "bbox": {
+        "x1": 33,
+        "y1": 201,
+        "x2": 571,
+        "y2": 314,
+        "width": 538,
+        "height": 113
+      },
+      "detection_confidence": 0.538420557975769
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5389975309371948,
+      "bbox": {
+        "x1": 161,
+        "y1": 239,
+        "x2": 258,
+        "y2": 386,
+        "width": 97,
+        "height": 147
+      },
+      "detection_confidence": 0.5389975309371948
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5383574366569519,
+      "bbox": {
+        "x1": 69,
+        "y1": 257,
+        "x2": 434,
+        "y2": 398,
+        "width": 365,
+        "height": 141
+      },
+      "detection_confidence": 0.5383574366569519
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5410834550857544,
+      "bbox": {
+        "x1": 56,
+        "y1": 349,
+        "x2": 256,
+        "y2": 411,
+        "width": 200,
+        "height": 62
+      },
+      "detection_confidence": 0.5410834550857544
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5382581353187561,
+      "bbox": {
+        "x1": 213,
+        "y1": 64,
+        "x2": 512,
+        "y2": 544,
+        "width": 299,
+        "height": 480
+      },
+      "detection_confidence": 0.5382581353187561
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5385894775390625,
+      "bbox": {
+        "x1": 0,
+        "y1": 287,
+        "x2": 292,
+        "y2": 481,
+        "width": 292,
+        "height": 194
+      },
+      "detection_confidence": 0.5385894775390625
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5391572713851929,
+      "bbox": {
+        "x1": 495,
+        "y1": 192,
+        "x2": 631,
+        "y2": 529,
+        "width": 136,
+        "height": 337
+      },
+      "detection_confidence": 0.5391572713851929
+    },
+    {
+      "class": "animal",
+      "confidence": 0.539493978023529,
+      "bbox": {
+        "x1": 143,
+        "y1": 113,
+        "x2": 640,
+        "y2": 369,
+        "width": 497,
+        "height": 256
+      },
+      "detection_confidence": 0.539493978023529
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5384361147880554,
+      "bbox": {
+        "x1": 337,
+        "y1": 266,
+        "x2": 469,
+        "y2": 375,
+        "width": 132,
+        "height": 109
+      },
+      "detection_confidence": 0.5384361147880554
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5376433730125427,
+      "bbox": {
+        "x1": 0,
+        "y1": 379,
+        "x2": 296,
+        "y2": 534,
+        "width": 296,
+        "height": 155
+      },
+      "detection_confidence": 0.5376433730125427
+    },
+    {
+      "class": "animal",
+      "confidence": 0.539615273475647,
+      "bbox": {
+        "x1": 130,
+        "y1": 267,
+        "x2": 206,
+        "y2": 451,
+        "width": 76,
+        "height": 184
+      },
+      "detection_confidence": 0.539615273475647
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5391559600830078,
+      "bbox": {
+        "x1": 60,
+        "y1": 102,
+        "x2": 352,
+        "y2": 382,
+        "width": 292,
+        "height": 280
+      },
+      "detection_confidence": 0.5391559600830078
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5380089282989502,
+      "bbox": {
+        "x1": 47,
+        "y1": 225,
+        "x2": 481,
+        "y2": 353,
+        "width": 434,
+        "height": 128
+      },
+      "detection_confidence": 0.5380089282989502
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5385302901268005,
+      "bbox": {
+        "x1": 24,
+        "y1": 6,
+        "x2": 323,
+        "y2": 541,
+        "width": 299,
+        "height": 535
+      },
+      "detection_confidence": 0.5385302901268005
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5384162664413452,
+      "bbox": {
+        "x1": 193,
+        "y1": 238,
+        "x2": 307,
+        "y2": 332,
+        "width": 114,
+        "height": 94
+      },
+      "detection_confidence": 0.5384162664413452
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5363640785217285,
+      "bbox": {
+        "x1": 48,
+        "y1": 236,
+        "x2": 263,
+        "y2": 294,
+        "width": 215,
+        "height": 58
+      },
+      "detection_confidence": 0.5363640785217285
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5368750691413879,
+      "bbox": {
+        "x1": 88,
+        "y1": 339,
+        "x2": 341,
+        "y2": 563,
+        "width": 253,
+        "height": 224
+      },
+      "detection_confidence": 0.5368750691413879
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5367966890335083,
+      "bbox": {
+        "x1": 325,
+        "y1": 267,
+        "x2": 583,
+        "y2": 317,
+        "width": 258,
+        "height": 50
+      },
+      "detection_confidence": 0.5367966890335083
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5391027927398682,
+      "bbox": {
+        "x1": 63,
+        "y1": 0,
+        "x2": 640,
+        "y2": 494,
+        "width": 577,
+        "height": 494
+      },
+      "detection_confidence": 0.5391027927398682
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5370027422904968,
+      "bbox": {
+        "x1": 0,
+        "y1": 364,
+        "x2": 170,
+        "y2": 622,
+        "width": 170,
+        "height": 258
+      },
+      "detection_confidence": 0.5370027422904968
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5393584966659546,
+      "bbox": {
+        "x1": 402,
+        "y1": 279,
+        "x2": 476,
+        "y2": 441,
+        "width": 74,
+        "height": 162
+      },
+      "detection_confidence": 0.5393584966659546
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5402102470397949,
+      "bbox": {
+        "x1": 42,
+        "y1": 375,
+        "x2": 304,
+        "y2": 428,
+        "width": 262,
+        "height": 53
+      },
+      "detection_confidence": 0.5402102470397949
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5348919630050659,
+      "bbox": {
+        "x1": 0,
+        "y1": 472,
+        "x2": 465,
+        "y2": 632,
+        "width": 465,
+        "height": 160
+      },
+      "detection_confidence": 0.5348919630050659
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5370422005653381,
+      "bbox": {
+        "x1": 164,
+        "y1": 316,
+        "x2": 402,
+        "y2": 534,
+        "width": 238,
+        "height": 218
+      },
+      "detection_confidence": 0.5370422005653381
+    },
+    {
+      "class": "animal",
+      "confidence": 0.538353443145752,
+      "bbox": {
+        "x1": 427,
+        "y1": 267,
+        "x2": 502,
+        "y2": 413,
+        "width": 75,
+        "height": 146
+      },
+      "detection_confidence": 0.538353443145752
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5372712016105652,
+      "bbox": {
+        "x1": 214,
+        "y1": 166,
+        "x2": 527,
+        "y2": 589,
+        "width": 313,
+        "height": 423
+      },
+      "detection_confidence": 0.5372712016105652
+    },
+    {
+      "class": "animal",
+      "confidence": 0.5382224321365356,
+      "bbox": {
+        "x1": 267,
+        "y1": 286,
+        "x2": 338,
+        "y2": 440,
+        "width": 71,
+        "height": 154
+      },
+      "detection_confidence": 0.5382224321365356
+    }
+  ]
+}

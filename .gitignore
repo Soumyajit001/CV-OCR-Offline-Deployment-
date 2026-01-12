@@ -40,15 +40,15 @@ models/*.onnx
 models/*.pb
 
 # Datasets (large files)
-datasets/**/*.jpg
+# datasets/**/*.jpg
 datasets/**/*.png
 datasets/**/*.jpeg
 datasets/**/*.mp4
 datasets/**/*.avi
 
 # Outputs
-outputs/**/*
-!outputs/.gitkeep
+# outputs/**/*
+# !outputs/.gitkeep
 
 # Test videos
 test_videos/**/*

@@ -1,0 +1,12 @@
+{
+  "image_name": "pexels-future-kiiid-3551498_jpg.rf.c31d12719b1987c5563a35c4d5f02298.jpg",
+  "timestamp": "20260112_123501",
+  "summary": {
+    "total_detections": 50,
+    "humans": 0,
+    "animals": 50,
+    "confidence_threshold": 0.5
+  },
+  "annotated_image_path": "outputs\\pexels-future-kiiid-3551498_jpg.rf.c31d12719b1987c5563a35c4d5f02298_annotated_20260112_123501.jpg",
+  "results_path": "outputs\\pexels-future-kiiid-3551498_jpg.rf.c31d12719b1987c5563a35c4d5f02298_detections_20260112_123501.json"
+}
